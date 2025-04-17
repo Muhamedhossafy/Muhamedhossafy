@@ -105,7 +105,6 @@ Kafr El-Sheikh University | 2022 - Present
 ✔ Team Collaboration
 ✔ Continuous Learning
 ✔ Multilingual (Arabic, English, French)
-
 ```
 
 <br>
