@@ -105,3 +105,51 @@ Kafr El-Sheikh University | 2022 - Present
 ✔ Team Collaboration
 ✔ Continuous Learning
 ✔ Multilingual (Arabic, English, French)
+
+```
+
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> Let's Connect..!</b>
+<br>
+<div align='center'>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-ammar-18b427306)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamad.ammar09001@qmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhamedhossafy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/)
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>Thanks for visiting my profile! 😊</b>
+### <i>"Turning ideas into reality, one line of code at a time"</i>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+Credit: [Muhamad Hossafy Ammar](https://github.com/Muhamedhossafy)
+
+Last Edited on: 17/04/2025
