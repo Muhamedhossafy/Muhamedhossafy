@@ -151,6 +151,6 @@ Kafr El-Sheikh University | 2022 - Present
 
 <br>
 
-Credit: [Muhamad Hossafy Ammar](https://github.com/Muhamedhossafy)
+Credit: [Muhamad Ammar](https://github.com/Muhamedhossafy)
 
 Last Edited on: 17/04/2025
