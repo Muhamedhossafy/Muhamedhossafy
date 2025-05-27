@@ -117,7 +117,7 @@ Kafr El-Sheikh University | 2022 - Present
 <br>
 <br>
 
-## <b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> Let's Connect..!</b>
+## <b>Let's Connect..! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> </b>
 <br>
 <div align='center'>
 
